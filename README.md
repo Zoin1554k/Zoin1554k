@@ -1,4 +1,4 @@
-##  https://github.com/Zoin1554k/Zoin1554k.wiki
+##  [[https://github.com/Zoin1554k/Zoin1554k/blob/main/img/octocat.png|alt=octocat]]
 
 <!--
 **Zoin1554k/Zoin1554k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
