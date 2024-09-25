@@ -1,4 +1,4 @@
-![fontbolt](https://photos.fife.usercontent.google.com/pw/AP1GczPOYrep-mQjKQX8zO2-tOOlOc4kZHn0kk1s1ryLjM0tvZA-LujQSjIO=w390-h267-s-no-gm?authuser=0)  
+![fontbolt](https://photos.google.com/album/AF1QipOWClPBaxjsHJ0bC6EqO4RiJ2j9jaWmevhtR-zw/photo/AF1QipNoH5RD0PbzmG5d3v4x8W29A6PZg9_dExcvyfaC)  
 
 - 🇧🇷 I'm from the city Uruaçu - GO;
 - 📚 I am currently studying at the Federal University of Jataí;
