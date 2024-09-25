@@ -5,6 +5,9 @@
 - 📚 I am currently studying at the Federal University of Jataí;
 - 🖥️ I want to learn and successfully develop software;
 - ⚡ Listen to Djonga;
+
+
+
 # 
 Thank you very much for reading.
 
