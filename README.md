@@ -9,6 +9,6 @@
 
 
 # 
-Thank you very much for reading.
-
 ![gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRrcjBmaWM3dWJ0dzA0dHI5ZXp2MHloYmcxOGxudnd5NTZhNDFnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CDH0spsSaqQUg/giphy.gif)
+
+Thank you very much for reading.
