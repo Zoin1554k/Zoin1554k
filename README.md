@@ -37,7 +37,7 @@
 ###
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31emsjhkkhkjtqlmel27psllc5h4&unique={true|1|on|yes})
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31emsjhkkhkjtqlmel27psllc5h4)](https://open.spotify.com/user/31emsjhkkhkjtqlmel27psllc5h4)
 
 # 
 ![gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRrcjBmaWM3dWJ0dzA0dHI5ZXp2MHloYmcxOGxudnd5NTZhNDFnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CDH0spsSaqQUg/giphy.gif)
